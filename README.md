@@ -1,0 +1,3 @@
+- 👋 Olá, sou a Thais!
+- Estou, concluindo a 2ª fase de Análise e Desenvolvimento de Sistemas no Senac - Jaraguá do Sul.
+- 💞️ Meus principais interesses na área são: Desenvolvimento Web, Análise (de requisitos/sistemas) e modelagem de Banco de dados. 
